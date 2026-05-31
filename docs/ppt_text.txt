@@ -1,0 +1,309 @@
+
+===== ppt/slides/slide1.xml =====
+GİRİŞ ADI
+ŞİFRE
+WEBSİTE: www.360tga.com
+Giriş Yapacak Kişiler
+Yönetim
+Muhasebe
+Şantiye Şefleri
+Satın Alma Birimi
+Ofis Ekibi
+
+===== ppt/slides/slide2.xml =====
+Yeni İş Oluştur
+Yönetim Sistem Girişi
+Şantiye Takip
+Muhasebe Takip
+Proje Takip
+Personel Takip
+
+===== ppt/slides/slide3.xml =====
+Yeni İş Oluştur
+Yönetim Sistem Girişi
+İnşaat
+Proje
+Satın Alma
+Muhasebese&Finans
+
+===== ppt/slides/slide4.xml =====
+Yönetim Sistem Girişi
+İnşaat
+Şantiye Adı:
+Adres
+Yetkili Kişi
+Başlangıç Tarihi
+Tahmini Bitiş Tarihi
+Şantiye Şefi 
+Dosya Yükle
+İş Emri Oluştur 
+Onaylandıktan Sonra ilgili kişinin platformunda görünecektir. 
+Proje Kodu
+Sisteme Liste olarak ekleyeceğiz ve eklediğimiz kişiler arasından seçilecektir 
+Yeni İş Oluştur
+
+===== ppt/slides/slide5.xml =====
+Yönetim Sistem Girişi
+Proje
+Proje Adı:
+Kurumsal Firma Adı
+İş Emri veren Kişi
+Başlangıç Tarihi
+Tahmini Bitiş Tarihi
+Çizen Kişi
+Dosya Yükle
+İş Emri Oluştur 
+Onaylandıktan Sonra ilgili kişinin platformunda görünecektir. 
+Proje Hakkında Bilgi
+Yeni İş Oluştur
+
+===== ppt/slides/slide6.xml =====
+Yönetim Sistem Girişi
+Satınama
+Sipariş Listesi Oluştur
+Proje Kodu Seç
+İş Emri Oluştur 
+Onaylandıktan Sonra ilgili kişinin platformunda görünecektir. 
+İş Emri Açtıktan Sonra Proje Kodları Buraya Düşmelidir- Proje Kodu / Şantiye Adı Şeklinde
+Daha yüklemiş olduğumuz listeden seçeceğiz metraj kutucuğu çıkacak oraya metrajları yazacağız 
+Yeni İş Oluştur
+
+===== ppt/slides/slide7.xml =====
+Yönetim Sistem Girişi
+Muhasebe&Finans
+Fatura Talebi Oluştur
+Ödeme Talebi Oluştur
+Rapor Talebi Oluştur
+Yeni İş Oluştur
+
+===== ppt/slides/slide8.xml =====
+Yönetim Sistem Girişi
+Muhasebe&Finans
+NOT EKLE
+Firma Adı
+Açıklama
+Tutar
+Fatura Talebi
+Not var ise butona tıklanıp not eklenecektir.
+Yeni İş Oluştur
+
+===== ppt/slides/slide9.xml =====
+Yönetim Sistem Girişi
+Muhasebe&Finans
+NOT EKLE
+Firma Adı
+Açıklama
+Tutar
+Ödeme Talebi
+Not var ise butona tıklanıp not eklenecektir.
+Yeni İş Oluştur
+
+===== ppt/slides/slide10.xml =====
+Şantiye Takip
+Yönetim Sistem Girişi
+Şantiye Adı
+İş Emri Açtıktan Sonra Proje Kodları Buraya Düşmelidir- Proje Kodu / Şantiye Adı Şeklinde
+Adres
+Yetkili Kişi
+Başlangıç Tarihi
+Tahmini Bitiş Tarihi
+Proje Kodu
+Gün olarak tamamlanma oranı
+Tamamlanma oranı 
+Bu oran bizlerin proje öncesinde iş tanımında yazacağımız şu aşamaların tamamlanma oranı şudur şeklinde olması durumuna bağlı olarak şantiye şefinin o iş tamamlandı işaretlenmesi sonucu olacaktır. 
+Örn
+. Sıva İşleri 
+Tamanlandı
+ %30 – Seramik İşleri Tamamlandı %40 
+Satın Alma Tamamlanma Oranı
+Oluşturmuş olduğumuz satın alma listesinin sahaya inmesi sonrası şantiye şefinin okeylemesi sonucu oluşan orandır.
+Raporlama Oranı
+Şantiye Şefi Günlük Rapor / Tamamlanan Gün
+Şantiye Adı Seçildikten sonra Ekrana Düşecek Hazır Bilgiler
+Anlaşma Tutarı
+Maliyet
+Bu rakam bizim arafımızdan manuel giriş yapılacaktır
+Bu Rakam Muhasebenin sisteme faturaları girmesi sonucu buraya düşecek şantiye masraf tutarıdır
+Raporlar
+Personelin Bu şantiye için girmiş olduğu raporları seçip incelemek için açılabilir sekme
+
+===== ppt/slides/slide11.xml =====
+Muhasebe Takip
+Yönetim Sistem Girişi
+Fatura Kesim Talebi Takip
+İş Emri Açılan Fatura Kesme Taleplerinin tamamlanma olayı muhasebe giriş yaptığında iş tamamlandı butonuna basarsa sistemde görünmeyecektir basmadıysa sistemde açık görünecektir
+Ödeme Talebi Takip
+İş Emri Açılan Ödeme Taleplerinin tamamlanma olayı muhasebe giriş yaptığında iş tamamlandı butonuna basarsa sistemde görünmeyecektir basmadıysa sistemde açık görünecektir
+Ödeme İstek Talebi
+Muhasebe tarafından ödeme talebi gönderilen ödemeleri görüp onaylama ekranı
+Şantiye Muhasebesi Takip
+Muhasebe tarafından girilen faturaların takibi
+Taşeron Finans Takip
+Personel Finans Takip
+Genel Finans Durumu Takip
+Banka – Çek – Ödeme Gibi finans durumun takip eden sistem 
+excel
+ tablosu oluşturacağız Kasa Durumu – Gelen Ödeme- Çekler- vb. olacak
+Taşeronlara gönderilen ödeme ve kesilen faturaların takibi için
+Personellere yapılan ödeme ve avansları takip eder
+
+===== ppt/slides/slide12.xml =====
+Muhasebe Takip
+Yönetim Sistem Girişi
+Genel Finans Durumu Takip
+Ekle
+Ödeme
+Çek Geliri
+Çek Ödemesi
+Nakit Gelir
+Vergi Ödemesi
+Tarih
+Tutar
+Açıklama
+
+===== ppt/slides/slide13.xml =====
+Muhasebe Takip
+Yönetim Sistem Girişi
+Genel Finans Durumu Takip
+NAKİT AKIŞ TAKVİMİ
+TOPLAM GELİR
+100.000 ₺
+Ödemeler · Gelirler · Çekler — Cari Durum
+TOPLAM ÖDEME
+12315124 ₺
+NET HAREKETLİLİK
+(123155 ₺)
+🏦  BANKA:
+b bankası
+HESAP / IBAN:
+TR00 0000 0000 0000 0000 00
+SON BAKİYE (TAHMİN)
+(123156 ₺)
+BAŞLANGIÇ BAKİYE:
+4.350.000 ₺
+GÜNCELLEME:
+18.04.2026
+TARİH
+KİŞİ / KURUM
+AÇIKLAMA
+BANKA ADI
+TÜR
+TUTAR (₺)
+KÜMÜLATİF BAKİYE
+DURUM
+25.05.2026
+xxx
+CARİ HESAP ÇEK ÖDEME 
+x bankası
+Çek-Çıkış
+59.939 ₺
+📄 Çek Çıkış
+02.06.2026
+aaa
+CARİ HESAP ÇEK ÖDEME 
+x bankası
+Çek-Çıkış
+210.697 ₺
+📄 Çek Çıkış
+05.06.2026
+aaa
+ÇEK GELİRİ
+a bankası
+Çek-Giriş
+100.000 ₺
+📄 Çek Giriş
+Formulüzasyon
+ Sistem olacaktır Biz ekleme yaptıkça bu listeye eklenecektir.
+
+===== ppt/slides/slide14.xml =====
+Muhasebe Takip
+Yönetim Sistem Girişi
+Fatura Kesim Talebi Takip
+Talep Sayısı
+Kesilen Fatura Sayısı
+Talep Sayısı – Kesilen Fatura Sayısından Fazla ise kesilmemiş fatura vardır ve kırmızı şekilde uyarı verebilir. Eşit ise Yeşil Şablon oluşabilir
+
+===== ppt/slides/slide15.xml =====
+Muhasebe Takip
+Yönetim Sistem Girişi
+Ödeme Talebi Takip
+Talep Sayısı
+Ödeme Yapılan İşlem Sayısı
+Talep Sayısı – İşlem Sayısından Fazla ise kesilmemiş fatura vardır ve kırmızı şekilde uyarı verebilir. Eşit ise Yeşil Şablon oluşabilir
+
+===== ppt/slides/slide16.xml =====
+Muhasebe Takip
+Yönetim Sistem Girişi
+Ödeme İstek Talebi
+Sistemden ödeme talep eden kişi adı
+Kullanıcılardan gelen ödeme talebi için
+Ödeme Talep Eden Kişi
+Tutar
+Sistemden Manuel olarak girecek
+Sistemden Manuel olarak girecek
+Fatura Görseli
+Onay & 
+Red
+Onay Seçtikten Sonra ödeme için tarih ekranı çıkmalıdır
+Red
+  seçilirse nedeni için not ekranı çıkmalıdır
+
+===== ppt/slides/slide17.xml =====
+Muhasebe Takip
+Yönetim Sistem Girişi
+Şantiye Muhasebesi Takibi 
+Şantiye Adı
+İş Emri Açtıktan Sonra Proje Kodları Buraya Düşmelidir- Proje Kodu / Şantiye Adı Şeklinde
+Anlaşma Tutarı
+Maliyet
+Bu rakam bizim arafımızdan manuel giriş yapılacaktır
+Bu Rakam Muhasebenin sisteme faturaları girmesi sonucu buraya düşecek şantiye masraf tutarıdır
+İşlenen Faturalar
+Tıklandığında muhasebenin işlemiş olduğu faturaların 
+excel
+ ekranı açılmalıdır
+
+===== ppt/slides/slide18.xml =====
+Muhasebe Takip
+Yönetim Sistem Girişi
+Taşeron Takibi 
+Taşeron Adı
+Taşeron Ekranı Liste olarak farklı bir noktadan manuel eklemeliyiz. 
+Taşeron seçildiği zaman muhasebenin giriş yaptığı ekran açılmalıdır
+
+===== ppt/slides/slide19.xml =====
+Muhasebe Takip
+Yönetim Sistem Girişi
+Personel Takibi 
+Personel Adı
+Personel Ekranı Liste olarak farklı bir noktadan manuel eklemeliyiz. 
+Personel seçildiği zaman muhasebenin giriş yaptığı ekran açılmalıdır
+
+===== ppt/slides/slide20.xml =====
+Yönetim Sistem Girişi
+Proje Takip
+Proje Çizen Kişi
+Kurumsal Firma Adı
+İş Emri veren Kişi
+Geçen Süre
+Proje Adı
+Yeni İş Oluştur
+Sisteme girdiğimiz iş emirlerinden seçilecek
+İş Emri Açılan Proje Sayısı 
+Devam Eden Proje Sayısı 
+Tamamlanan Proje Sayısı
+
+===== ppt/slides/slide21.xml =====
+Yönetim Sistem Girişi
+Personel Takip
+İşe Giriş Tarihi
+Özlük Dosyası Tamamlanma Durumu
+Personel Maaş – Avans durumu
+Personel İzin Durumu 
+Personel Sayısı
+Yeni İş Oluştur
+Sistemdeki Personellerden seçilecek
+Maaş tutarı
+Kullanılan İzin Gün Sayısı / Kazanılmış İzin Gün Sayısı
+Personel Cezai İşlem Takip Durumu
+Not:
